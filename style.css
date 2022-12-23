@@ -1,0 +1,216 @@
+.h1 {
+    color: white;
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(65, 60, 60);
+    color: white;
+    margin: 0 auto;
+
+}
+
+.img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin-left: 8cm;
+    display: flex;
+}
+
+.fronted {
+    text-align: center;
+}
+
+.main {
+    margin-left: 5cm;
+    margin-right: 5cm;
+
+}
+
+.button {
+    background-color: rgb(65, 60, 60);
+    margin-left: 10cm;
+    min-width: 170px;
+    min-height: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+
+.body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer {
+    background-color: rgb(65, 60, 60);
+    color: white;
+    margin: 0 auto;
+}
+
+.contacts {
+    text-align: center;
+}
+
+.present,
+.studio,
+.list,
+.times {
+    margin-left: 2cm;
+    list-style: none;
+    font-size: 13pt;
+
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link {
+    list-style: square;
+    color: rgb(119, 112, 112);
+}
+
+.ridht {
+    color: rgb(250, 250, 250);
+    text-align: center;
+    font-size: small;
+}
+
+.form2 {
+
+    text-align: left;
+}
+
+.a3:hover {
+    background: green;
+    color: brown;
+}
+
+.engl,
+.rus:hover {
+    color: green;
+
+}
+
+.name,
+.mail {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+
+}
+
+.name1 {
+    margin-left: 2cm;
+}
+
+.name1,
+.mail1 {
+    width: 366px;
+    border: 5px solid #BEB1AE;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: #E5D6D2;
+    font-weight: bold;
+    resize: none;
+    text-align: center;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    margin-right: 3cm;
+}
+
+.message1 {
+    width: 736px;
+    border: 5px solid #BEB1AE;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: #E5D6D2;
+    font-weight: bold;
+    resize: none;
+    margin-left: 2cm;
+}
+
+.form {
+    background-color: rgba(235, 212, 151, 0.822);
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+
+.a1,
+.a2,
+.a3 {
+    color: white;
+}
+
+.form2 {
+    display: flex;
+    justify-content: center;
+}
+
+.a2 {
+    margin-left: 10cm;
+}
+
+.a3 {
+    margin-left: 10cm;
+}
+
+.form1 {
+    text-align: center;
+}
+
+.name1,
+.mail1,
+.message1 {
+    background-color: rgba(235, 212, 151, 0.822);
+    border-bottom: 1px;
+    border: 0px;
+    border-bottom: 1px ridge black;
+
+}
+
+.message1 {
+    margin-left: 3cm;
+}
+
+.name {
+    bottom: 3px;
+}
+
+.section1,
+.section2,
+.section3,
+.form {
+    margin: 0 auto;
+}
+
+.present,
+.studio,
+.new {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 16cm;
+    margin-left: 0mm;
+}
+
+.lorem,
+.lorem1,
+.lorem3 {
+    padding-left: 43mm;
+}
+
+.form2 {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 16cm;
+    margin-left: 0mm;
+}
